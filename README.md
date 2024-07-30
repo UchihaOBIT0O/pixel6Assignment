@@ -16,4 +16,6 @@ is using a useState hook for filtering the fetching data by Gender.
 Apart from that i did not implemented a filtering by country Because the API provided "https://dummyjson.com/users" has a total of 208 records / 208 users and everyUser has his country as "United State" So there is no reason for implementing a
 Filtering by country
 
+Live Link:- https://pixel6assignment.netlify.app 
+
 Thank You!
